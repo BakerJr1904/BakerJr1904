@@ -1,4 +1,4 @@
-# My Name is John A Baker Jr.
+# My Name is John A Baker Jr. 
 
 <!--
 **BakerJr1904/BakerJr1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
