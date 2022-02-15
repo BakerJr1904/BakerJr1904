@@ -7,14 +7,14 @@
 **BakerJr1904/BakerJr1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### - 🔭 I’m currently working on a AWS ReKognition Project
-### - 🌱 I’m currently learning Data Science @ Bloom Tech
-### - 👯 I’m looking to collaborate on a Neural Network 
-### - 💬 Ask me about Neutral Networks
-### - 📫 How to reach me: baker.john20@yahoo.com <br>
+### 🔭 I’m currently working on a AWS ReKognition Project 🔭
+### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
+### 👯 I’m looking to collaborate on a Neural Network 👯
+### 💬 Ask me about Neutral Networks 💬
+### 📫 How to reach me: baker.john20@yahoo.com 📫
 
 # ⛵️ Fun fact: I Love to SAIL ⛵️
 
 
 ###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
-###  Please Visit My [Project-Resume website](https://www.johnabakerjr.link/) Page
+###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page
