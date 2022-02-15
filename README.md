@@ -26,5 +26,6 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 </br>
-
-[LinKedIn](https://www.linkedin.com/in/john-a-baker-jr/)
+</br>
+</br>
+[Linked-In](https://www.linkedin.com/in/john-a-baker-jr/)
