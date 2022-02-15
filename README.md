@@ -27,4 +27,4 @@
 
 </br>
 <h3 align="left" dir="auto">Connect with me:</h3>
-[LinKedIn](https://www.linkedin.com/in/john-a-baker-jr/)
+[LinKedIn] (https://www.linkedin.com/in/john-a-baker-jr/)
