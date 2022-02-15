@@ -12,7 +12,8 @@
 - 👯 I’m looking to collaborate on a Neural Network 
 - 💬 Ask me about Neutral Networks
 - 📫 How to reach me: baker.john20@yahoo.com
-- ⚡ Fun fact: I Love to ⛵️ # SAIL
+
+# ⚡ Fun fact: I Love to ⛵️ SAIL
 
 
   Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
