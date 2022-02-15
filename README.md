@@ -15,4 +15,4 @@
 - ⚡ Fun fact: I Love to ⛵️ 
 
 
-[Linked-In](https://www.linkedin.com/in/john-a-baker-jr/)
+  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page
