@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Data Science @ Bloom Tech
 - 👯 I’m looking to collaborate on a Neural Network 
 - 💬 Ask me about Neutral Networks
-- 📫 How to reach me: baker.john20@yahoo.com
+- 📫 How to reach me: baker.john20@yahoo.com <br>
 
 # ⛵️ Fun fact: I Love to SAIL ⛵️
 
