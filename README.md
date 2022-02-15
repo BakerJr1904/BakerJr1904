@@ -17,4 +17,6 @@
 
 
 ###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
-###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page
+###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
+<br>
+&#9658;
