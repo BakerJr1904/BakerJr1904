@@ -27,4 +27,4 @@
 
 </br>
 <h3 align="left" dir="auto">Connect with me:</h3>
-<img align="left" href="https://www.linkedin.com/in/john-a-baker-jr/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="26px"/>
+[LinKedIn](https://www.linkedin.com/in/john-a-baker-jr/)
