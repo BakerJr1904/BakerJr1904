@@ -19,4 +19,5 @@
 ###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
 ###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
 <br>
-&#9658;
+
+![python-logo](https://user-images.githubusercontent.com/65743503/154163627-e7dcf348-7532-4f76-ab0c-3398107f950e.png)
