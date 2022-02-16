@@ -22,5 +22,7 @@
 
 ![python-logo](https://user-images.githubusercontent.com/65743503/154163627-e7dcf348-7532-4f76-ab0c-3398107f950e.png)
 ![tf2-0-1](https://user-images.githubusercontent.com/65743503/154354813-1b1d8440-6a98-46da-8129-a0245a301805.png)
-
+![plotly-dash](https://user-images.githubusercontent.com/65743503/154356753-a0baf146-2c17-461d-a48c-bff9e6d5facf.jpeg)
+![heroku](https://user-images.githubusercontent.com/65743503/154356734-37842bf7-9062-4392-aaae-8a59ada7f58f.png)
+![Tableau](https://user-images.githubusercontent.com/65743503/154356773-28aaf3a0-a7e8-408c-b6c9-7763cff1b20c.png)
 
