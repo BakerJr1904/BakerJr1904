@@ -24,5 +24,6 @@
 ![tf2-0-1](https://user-images.githubusercontent.com/65743503/154354813-1b1d8440-6a98-46da-8129-a0245a301805.png)
 ![plotly-dash](https://user-images.githubusercontent.com/65743503/154356753-a0baf146-2c17-461d-a48c-bff9e6d5facf.jpeg)
 ![heroku](https://user-images.githubusercontent.com/65743503/154356734-37842bf7-9062-4392-aaae-8a59ada7f58f.png)
-![Tableau](https://user-images.githubusercontent.com/65743503/154356773-28aaf3a0-a7e8-408c-b6c9-7763cff1b20c.png)
+![Tableau](https://user-images.githubusercontent.com/65743503/154356910-444e77ff-d41b-4107-b3b0-cb5041cf3de7.png)
+
 
