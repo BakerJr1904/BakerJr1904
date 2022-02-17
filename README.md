@@ -1,6 +1,7 @@
 # My Name is John A Baker Jr. 
 
-![Octocat](https://user-images.githubusercontent.com/65743503/154575051-98ee5c8b-8f0c-46d4-8cf5-2e21eebe56af.jpg)
+<img width="144" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575409-290fd69f-7a8e-4215-8aa4-42ecdb04e02b.png">
+
 
 <!--
 **BakerJr1904/BakerJr1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
