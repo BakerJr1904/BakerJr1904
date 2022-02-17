@@ -1,5 +1,7 @@
 # My Name is John A Baker Jr. 
-<img width="216" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575571-95719d54-d445-46e9-85e7-49db3eb6503d.png">
+
+<img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
+
 
 
 <!--
