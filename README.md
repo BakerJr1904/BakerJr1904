@@ -2,11 +2,23 @@
 
 <img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
 
+What I have been doing:
+Data Wrangling and Storytelling, Statistical Analysis, Test Experiments, and Linear Algebra.
+Linear Models, Model Comparison, Applied Modeling, Data Visualization.
+Software Engineering, SQL and Databases, Productization and Cloud.
+Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
+Intro to Python and OOP, Algorithms, Data Structures, Graphs, and Hash Tables.
+Participated in an apprenticeship by building a real-world project with a small team.
+Plus I have passed the GCA (General Coding Assessment)
 
+The  online data scientist courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, build reproducible data analytics and data-powered systems, and understand how to communicate and build on my insights. Plus, I've gained fundamental computer science skills and have had chance to build and contribute to real products with a team of students like me.
 
-<!--
-**BakerJr1904/BakerJr1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### “Nothing in the world can take the place of persistence. 
+### Talent will not; nothing is more common than unsuccessful people with talent. 
+### Genius will not; unrewarded genius is almost a proverb. 
+### Education will not; the world is full of educated derelicts. 
+### Persistence and determination alone are omnipotent. 
+### The slogan Press On! has solved and always will solve the problems of the human race.”
 
 ### 🔭 I’m currently working on a AWS ReKognition Project 🔭
 ### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
