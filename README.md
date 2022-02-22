@@ -27,7 +27,6 @@ The slogan Press On! has solved and always will solve the problems of the human 
 ### 📫 How to reach me: baker.john20@yahoo.com 📫
 # ⛵️ Fun fact: I Love to SAIL ⛵️
 
-
 ###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
 ###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
 <br>
