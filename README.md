@@ -22,7 +22,6 @@ The slogan Press On! has solved and always will solve the problems of the human 
 
 ### 🔭 I’m currently working on a AWS ReKognition Project 🔭
 ### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
-
 ### 👯 I’m looking to collaborate on a Neural Network 👯
 
 ### 💬 Ask me about Neutral Networks 💬
