@@ -34,7 +34,6 @@ The slogan Press On! has solved and always will solve the problems of the human 
 ![sklearn](https://user-images.githubusercontent.com/65743503/154358870-726a271d-d16a-470a-a28e-97e91a5f2297.png)
 
 ![python-logo](https://user-images.githubusercontent.com/65743503/154163627-e7dcf348-7532-4f76-ab0c-3398107f950e.png)
-
 ![plotly-dash](https://user-images.githubusercontent.com/65743503/154356753-a0baf146-2c17-461d-a48c-bff9e6d5facf.jpeg)
 ![heroku](https://user-images.githubusercontent.com/65743503/154356734-37842bf7-9062-4392-aaae-8a59ada7f58f.png)
 ![Tableau](https://user-images.githubusercontent.com/65743503/154357188-1ba6b1bc-e11e-46e0-8759-01c187aa38ec.png)
