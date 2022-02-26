@@ -27,6 +27,7 @@ The slogan Press On! has solved and always will solve the problems of the human 
 ### 👯 I’m looking to collaborate on a Neural Network 👯
 
 ### 💬 Ask me about Neutral Networks 💬
+
 ### 📫 How to reach me: baker.john20@yahoo.com 📫
 # ⛵️ Fun fact: I Love to SAIL ⛵️
 
