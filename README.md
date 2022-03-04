@@ -9,7 +9,7 @@ Software Engineering, SQL and Databases, Productization and Cloud.
 Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
 Intro to Python and OOP, Algorithms, Data Structures, Graphs, and Hash Tables.
 Participated in an apprenticeship by building a real-world project with a small team.
-Plus I have passed the GCA (General Coding Assessment)
+Plus I have passed the Python3 GCA (General Coding Assessment)
 
 The  online data scientist courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics and data-powered systems, and understand how to communicate and build on my insights. Plus, I've gained fundamental computer science skills and have had chance to build and contribute to real products with a team of students like me.
 
