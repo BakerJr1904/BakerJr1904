@@ -29,6 +29,7 @@ The slogan Press On! has solved and always will solve the problems of the human 
 
 ###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
 ###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
+
 <br>
 
 ![sklearn](https://user-images.githubusercontent.com/65743503/154358870-726a271d-d16a-470a-a28e-97e91a5f2297.png)
