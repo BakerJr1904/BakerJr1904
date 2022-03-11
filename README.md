@@ -22,7 +22,8 @@ What I have been doing:<br>
 - Cutting-edge models<br>
 - Architectures<br>
 - Intro to Python and OOP<br>
-- Algorithms, Data Structures, Graphs, and Hash Tables.
+- Algorithms<br>
+- Data StructuresGraphs, and Hash Tables.
 Participated in an apprenticeship by building a real-world project with a small team.
 Plus I have passed the Python3 GCA (General Coding Assessment)
 
