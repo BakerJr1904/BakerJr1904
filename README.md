@@ -16,7 +16,7 @@ What I have been doing:<br>
 - Software Engineering<br>
 - SQL, noSQL, and Databases<br>
 - Productization<br>
-- Cloud<br>
+- Cloud Implementation<br>
 - Natural Language Processing<br>
 - Neural Network Foundations<br>
 - Cutting-edge models<br>
