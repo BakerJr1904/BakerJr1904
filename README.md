@@ -23,7 +23,8 @@ What I have been doing:<br>
 - Architectures<br>
 - Intro to Python and OOP<br>
 - Algorithms<br>
-- Data StructuresGraphs, and Hash Tables.
+- Data StructuresGraphs<br>
+- Hash Tables<br>
 Participated in an apprenticeship by building a real-world project with a small team.
 Plus I have passed the Python3 GCA (General Coding Assessment)
 
