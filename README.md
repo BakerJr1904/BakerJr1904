@@ -17,7 +17,10 @@ What I have been doing:<br>
 - SQL and Databases<br>
 - Productization<br>
 - Cloud<br>
-Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
+- Natural Language Processing<br>
+- Neural Network Foundations<br>
+- Cutting-edge models<br>
+- architectures.
 Intro to Python and OOP, Algorithms, Data Structures, Graphs, and Hash Tables.
 Participated in an apprenticeship by building a real-world project with a small team.
 Plus I have passed the Python3 GCA (General Coding Assessment)
