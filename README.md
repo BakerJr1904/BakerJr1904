@@ -25,8 +25,6 @@ What I have been doing:<br>
 - Algorithms<br>
 - Data StructuresGraphs<br>
 - Hash Tables<br><br>
-Participated in an apprenticeship by building a real-world project with a small team.
-Plus I have passed the Python3 GCA (General Coding Assessment)
 
 “Nothing in the world can take the place of persistence. 
 Talent will not; nothing is more common than unsuccessful people with talent. 
@@ -37,6 +35,7 @@ The slogan Press On! has solved and always will solve the problems of the human 
 
 ### 🔭 I’m currently working on a AWS ReKognition Project 🔭
 ### 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
+### 👨‍💻I am currently working on a team project that involves building real-world features for Underdog Devs, a non-profit.👨‍💻
 ### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
 ### 👯 I’m looking to collaborate on a Neural Network 👯
 ### 💬 Ask me about Neutral Networks 💬
