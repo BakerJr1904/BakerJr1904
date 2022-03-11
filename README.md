@@ -7,7 +7,8 @@ The  online data scientist courses I have been taking are focused on technical a
 What I have been doing:<br>
 - Data Wrangling and Storytelling<br>
 - Statistical Analysis<br>
-- Test Experiments, and Linear Algebra.
+- Test Experiments<br>
+- Linear Algebra.
 Linear Models, Model Comparison, Applied Modeling, Data Visualization.
 Software Engineering, SQL and Databases, Productization and Cloud.
 Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
