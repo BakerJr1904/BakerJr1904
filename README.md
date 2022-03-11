@@ -10,7 +10,8 @@ What I have been doing:<br>
 - Test Experiments<br>
 - Linear Algebra<br>
 - Linear Models<br>
-- Model Comparison, Applied Modeling, Data Visualization.
+- Model Comparison<br>
+- Applied Modeling, Data Visualization.
 Software Engineering, SQL and Databases, Productization and Cloud.
 Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
 Intro to Python and OOP, Algorithms, Data Structures, Graphs, and Hash Tables.
