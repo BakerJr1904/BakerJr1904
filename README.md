@@ -23,7 +23,7 @@ What I have been doing:<br>
 - Architectures<br>
 - Intro to Python and OOP<br>
 - Algorithms<br>
-- Data StructuresGraphs<br>
+- Data Structures and Graphs<br>
 - Hash Tables<br><br>
 
 “Nothing in the world can take the place of persistence. 
