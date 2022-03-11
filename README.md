@@ -14,7 +14,9 @@ What I have been doing:<br>
 - Applied Modeling<br>
 - Data Visualization<br>
 - Software Engineering<br>
-- SQL and Databases, Productization and Cloud.
+- SQL and Databases<br>
+- Productization<br>
+- Cloud<br>
 Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
 Intro to Python and OOP, Algorithms, Data Structures, Graphs, and Hash Tables.
 Participated in an apprenticeship by building a real-world project with a small team.
