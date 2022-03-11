@@ -8,7 +8,7 @@ What I have been doing:<br>
 - Data Wrangling and Storytelling<br>
 - Statistical Analysis<br>
 - Test Experiments<br>
-- Linear Algebra.
+- Linear Algebra<br>
 Linear Models, Model Comparison, Applied Modeling, Data Visualization.
 Software Engineering, SQL and Databases, Productization and Cloud.
 Natural Language Processing, Neural Network Foundations, Cutting-edge models and architectures.
