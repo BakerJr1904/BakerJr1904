@@ -2,7 +2,7 @@
 
 <img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
 
-The  online data Science courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics and data-powered systems, and understand how to communicate and build on my insights. I've gained fundamental computer science skills. Plus I am doing an internship with Underdog-Devs.org
+The  online data Science courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics and data-powered systems, and understand how to communicate and build on my insights. I've gained fundamental computer science skills. Plus I am doing an internship with Underdog-Devs.org, 
 
 What I have been doing:<br>
 - Data Wrangling and Storytelling<br>
