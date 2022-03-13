@@ -35,7 +35,7 @@ The slogan Press On! has solved and always will solve the problems of the human 
 
 ### 🔭 I’m currently working on a AWS ReKognition Project 🔭
 ### 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
-### 👨‍💻I am currently working on a team that involves building real-world features<br/>for Underdog Devs, a non-profit organization.👨‍💻
+### 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻
 ### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
 ### 👯 I’m looking to collaborate on a Neural Network 👯
 ### 💬 Ask me about Neutral Networks 💬
