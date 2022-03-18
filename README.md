@@ -27,17 +27,17 @@ What I have been doing:<br>
 - Hash Tables<br><br>
 
 
- 🔭 I’m currently working on a AWS ReKognition Project 🔭
- 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
- 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻
- 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
+#### 🔭 I’m currently working on a AWS ReKognition Project 🔭
+#### 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
+#### 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻
+#### 🌱 I’m currently learning Data Science @ Bloom Tech 🌱
 #### 👯 I’m looking to collaborate on a Neural Network 👯
-### 💬 Ask me about Neutral Networks 💬
-### 📫 How to reach me: baker.john20@yahoo.com 📫
-# ⛵️ Fun fact: I Love to SAIL ⛵️
+#### 💬 Ask me about Neutral Networks 💬
+#### 📫 How to reach me: baker.john20@yahoo.com 📫
+#### ⛵️ Fun fact: I Love to SAIL ⛵️
 
-###  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
-###  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
+####  Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
+####  Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
 
 <br>
 
