@@ -26,12 +26,6 @@ What I have been doing:<br>
 - Data Structures and Graphs<br>
 - Hash Tables<br><br>
 
-“Nothing in the world can take the place of persistence. 
-Talent will not; nothing is more common than unsuccessful people with talent. 
-Genius will not; unrewarded genius is almost a proverb. 
-Education will not; the world is full of educated derelicts. 
-Persistence and determination alone are omnipotent. 
-The slogan Press On! has solved and always will solve the problems of the human race.”
 
 ### 🔭 I’m currently working on a AWS ReKognition Project 🔭
 ### 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
