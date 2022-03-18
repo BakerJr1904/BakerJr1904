@@ -27,13 +27,13 @@ What I have been doing:<br>
 - Hash Tables<br><br>
 
 
- 🔭 I’m currently working on a AWS ReKognition Project 🔭<br><br>
- 🤓I have passed the Python3 GCA (General Coding Assessment)🤓<br><br>
- 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻<br><br>
- 🌱 I’m currently learning Data Science @ Bloom Tech 🌱<br><br>
- 👯 I’m looking to collaborate on a Neural Network 👯<br><br>
- 💬 Ask me about Neutral Networks 💬<br><br>
- 📫 How to reach me: baker.john20@yahoo.com 📫<br><br>
+ 🔭 I’m currently working on a AWS ReKognition Project 🔭<br>
+ 🤓I have passed the Python3 GCA (General Coding Assessment)🤓<br>
+ 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻<br>
+ 🌱 I’m currently learning Data Science @ Bloom Tech 🌱<br>
+ 👯 I’m looking to collaborate on a Neural Network 👯<br>
+ 💬 Ask me about Neutral Networks 💬<br>
+ 📫 How to reach me: baker.john20@yahoo.com 📫<br>
  ⛵️ Fun fact: I Love to SAIL ⛵️<br><br>
 
 
