@@ -2,6 +2,15 @@
 
 <img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
 
+- 🔭 I’m currently working on a AWS ReKognition Project 🔭
+- 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
+- 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻<br>
+- 🌱 I’m currently learning Data Science @ Bloom Tech 🌱<br>
+- 👯 I’m looking to collaborate on a Neural Network 👯<br>
+- 💬 Ask me about Neutral Networks 💬<br>
+- 📫 How to reach me: baker.john20@yahoo.com 📫<br>
+- ⛵️ Fun fact: I Love to SAIL ⛵️<br><br>
+
 The  online data Science courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics, data-powered systems, and understand how to communicate and build on my insights. I've also gained fundamental computer science skills. Plus I am doing an volunteer work with Underdog-Devs.org, as the lead Machine Learning Engineer, helping them to build some projects with a team of Front-End, Back-end, and Full-Stack engineers. <br>
 
 What I have been doing:<br>
@@ -25,16 +34,6 @@ What I have been doing:<br>
 - Algorithms<br>
 - Data Structures and Graphs<br>
 - Hash Tables<br><br>
-
-
- - 🔭 I’m currently working on a AWS ReKognition Project 🔭
- - 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
- 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻<br>
- 🌱 I’m currently learning Data Science @ Bloom Tech 🌱<br>
- 👯 I’m looking to collaborate on a Neural Network 👯<br>
- 💬 Ask me about Neutral Networks 💬<br>
- 📫 How to reach me: baker.john20@yahoo.com 📫<br>
- ⛵️ Fun fact: I Love to SAIL ⛵️<br><br>
 
 
 Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
