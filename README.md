@@ -27,8 +27,8 @@ What I have been doing:<br>
 - Hash Tables<br><br>
 
 
- 🔭 I’m currently working on a AWS ReKognition Project 🔭<br>
- 🤓I have passed the Python3 GCA (General Coding Assessment)🤓<br>
+ - 🔭 I’m currently working on a AWS ReKognition Project 🔭
+ - 🤓I have passed the Python3 GCA (General Coding Assessment)🤓
  👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.👨‍💻<br>
  🌱 I’m currently learning Data Science @ Bloom Tech 🌱<br>
  👯 I’m looking to collaborate on a Neural Network 👯<br>
