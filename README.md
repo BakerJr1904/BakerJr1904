@@ -27,7 +27,7 @@ What I have been doing:<br>
 :white_check_mark: Software Engineering<br>
 :white_check_mark: SQL, noSQL, and Databases<br>
 :white_check_mark: Productization<br>
-- Cloud Implementation<br>
+:white_check_mark: Cloud Implementation<br>
 - Natural Language Processing<br>
 - Neural Network Foundations<br>
 - Cutting-edge models<br>
