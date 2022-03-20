@@ -34,7 +34,7 @@ What I have been doing:<br>
 :white_check_mark: Architectures<br>
 :white_check_mark: Intro to Python and OOP<br>
 :white_check_mark: Algorithms<br>
-- Data Structures and Graphs<br>
+:white_check_mark: Data Structures and Graphs<br>
 - Hash Tables<br><br>
 
 
