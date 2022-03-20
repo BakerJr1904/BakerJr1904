@@ -19,7 +19,7 @@ What I have been doing:<br>
 :white_check_mark: Data Wrangling and Storytelling<br>
 :white_check_mark: Statistical Analysis<br>
 :white_check_mark: Test Experiments<br>
-- Linear Algebra<br>
+:white_check_mark: Linear Algebra<br>
 - Linear Models<br>
 - Model Comparison<br>
 - Applied Modeling<br>
