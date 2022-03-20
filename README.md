@@ -20,7 +20,7 @@ What I have been doing:<br>
 :white_check_mark: Statistical Analysis<br>
 :white_check_mark: Test Experiments<br>
 :white_check_mark: Linear Algebra<br>
-- Linear Models<br>
+:white_check_mark: Linear Models<br>
 - Model Comparison<br>
 - Applied Modeling<br>
 - Data Visualization<br>
