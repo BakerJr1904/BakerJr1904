@@ -30,7 +30,7 @@ What I have been doing:<br>
 :white_check_mark: Cloud Implementation<br>
 :white_check_mark: Natural Language Processing<br>
 :white_check_mark: Neural Network Foundations<br>
-- Cutting-edge models<br>
+:white_check_mark: Cutting-edge models<br>
 - Architectures<br>
 - Intro to Python and OOP<br>
 - Algorithms<br>
