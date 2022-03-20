@@ -16,7 +16,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 The  online data Science courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics, data-powered systems, and understand how to communicate and build on my insights. I've also gained fundamental computer science skills. Plus I am doing an volunteer work with Underdog-Devs.org, as the lead Machine Learning Engineer, helping them to build some projects with a team of Front-End, Back-end, and Full-Stack engineers. <br>
 
 What I have been doing:<br>
-- :white_check_mark Data Wrangling and Storytelling<br>
+:white_check_mark: Data Wrangling and Storytelling<br>
 - Statistical Analysis<br>
 - Test Experiments<br>
 - Linear Algebra<br>
