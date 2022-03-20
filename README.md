@@ -18,7 +18,7 @@ The  online data Science courses I have been taking are focused on technical and
 What I have been doing:<br>
 :white_check_mark: Data Wrangling and Storytelling<br>
 :white_check_mark: Statistical Analysis<br>
-- Test Experiments<br>
+:white_check_mark: Test Experiments<br>
 - Linear Algebra<br>
 - Linear Models<br>
 - Model Comparison<br>
