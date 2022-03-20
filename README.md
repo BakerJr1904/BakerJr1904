@@ -35,7 +35,7 @@ What I have been doing:<br>
 :white_check_mark: Intro to Python and OOP<br>
 :white_check_mark: Algorithms<br>
 :white_check_mark: Data Structures and Graphs<br>
-- Hash Tables<br><br>
+:white_check_mark:Hash Tables<br><br>
 
 
 Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
