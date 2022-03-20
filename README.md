@@ -23,7 +23,7 @@ What I have been doing:<br>
 :white_check_mark: Linear Models<br>
 :white_check_mark: Model Comparison<br>
 :white_check_mark: Applied Modeling<br>
-- Data Visualization<br>
+:white_check_mark: Data Visualization<br>
 - Software Engineering<br>
 - SQL, noSQL, and Databases<br>
 - Productization<br>
