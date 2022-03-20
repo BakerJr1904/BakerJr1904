@@ -29,7 +29,7 @@ What I have been doing:<br>
 :white_check_mark: Productization<br>
 :white_check_mark: Cloud Implementation<br>
 :white_check_mark: Natural Language Processing<br>
-- Neural Network Foundations<br>
+:white_check_mark: Neural Network Foundations<br>
 - Cutting-edge models<br>
 - Architectures<br>
 - Intro to Python and OOP<br>
