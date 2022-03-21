@@ -13,6 +13,9 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 ⛵️ Fun fact: I Love to SAIL <br>
 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.<br>
 
+Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
+Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
+
 The  online data Science courses I have been taking are focused on technical and professional skills hiring managers need most. I attend live, online lectures led by experienced data scientists who have trained me on industry-current tools and techniques for the data science field, including best practices in the Python ecosystem.  I've also learned to analyze a variety of types of data, built reproducible data analytics, data-powered systems, and understand how to communicate and build on my insights. I've also gained fundamental computer science skills. Plus I am doing an volunteer work with Underdog-Devs.org, as the lead Machine Learning Engineer, helping them to build some projects with a team of Front-End, Back-end, and Full-Stack engineers. <br/>
 
 What I have been doing:<br>
@@ -36,10 +39,6 @@ What I have been doing:<br>
 :white_check_mark: Algorithms<br>
 :white_check_mark: Data Structures and Graphs<br>
 :white_check_mark:Hash Tables<br>
-
-
-Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
-Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
 
 <br>
 
