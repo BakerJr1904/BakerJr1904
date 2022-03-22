@@ -49,6 +49,7 @@ What I have been doing:<br>
 :white_check_mark: Neural Network Foundations<br>
 
 :white_check_mark: Cutting-edge models<br>
+
 :white_check_mark: Architectures<br>
 :white_check_mark: Intro to Python and OOP<br>
 :white_check_mark: Algorithms<br>
