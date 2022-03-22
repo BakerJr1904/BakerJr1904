@@ -39,6 +39,7 @@ What I have been doing:<br>
 :white_check_mark: Software Engineering<br>
 
 :white_check_mark: SQL, noSQL, and Databases<br>
+
 :white_check_mark: Productization<br>
 :white_check_mark: Cloud Implementation<br>
 :white_check_mark: Natural Language Processing<br>
