@@ -18,6 +18,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 📫 How to reach me: baker.john20@yahoo.com <br>
 
 ⛵️ Fun fact: I Love to SAIL <br>
+
 👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.<br>
 
 Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
