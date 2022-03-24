@@ -6,7 +6,6 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 <img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
 
 🔭 I’m currently working on a AWS ReKognition Project<br>
-
 🤓I have passed the Python3 GCA (General Coding Assessment)<br>
 🌱 I’m currently learning Data Science @ Bloom Tech <br>
 👯 I’m looking to collaborate on a Neural Network <br>
