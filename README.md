@@ -10,6 +10,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 🤓I have passed the Python3 GCA (General Coding Assessment)<br>
 
 🌱 I’m currently learning Data Science @ Bloom Tech <br>
+
 👯 I’m looking to collaborate on a Neural Network <br>
 💬 Ask me about Neutral Networks <br>
 📫 How to reach me: baker.john20@yahoo.com <br>
