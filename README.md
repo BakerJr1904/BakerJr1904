@@ -4,14 +4,15 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 
 <img width="288" alt="Octocat" src="https://user-images.githubusercontent.com/65743503/154575998-e8e2113b-972c-45df-9d22-0a4defa47b57.png">
 
+🌱 I’m currently getting my AWS Certified Machine Learning - Specialty <br>
+🌱 I’m currently getting PCAP-31-02 Python Certification <br>
 🔭 I’m currently working on a AWS ReKognition Project<br>
 🤓I have passed the Python3 GCA (General Coding Assessment)<br>
-🌱 I’m currently learning Data Science @ Bloom Tech <br>
 👯 I’m looking to collaborate on a Neural Network <br>
 💬 Ask me about Neutral Networks <br>
 📫 How to reach me: baker.john20@yahoo.com <br>
 ⛵️ Fun fact: I Love to SAIL <br>
-👨‍💻I am currently working on a team that is building NLP features<br/>for Underdog Devs, a non-profit organization.<br>
+👨‍💻I am currently working on a team that is building NLP features for Underdog Devs, a non-profit organization.<br>
 
 Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
 Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
