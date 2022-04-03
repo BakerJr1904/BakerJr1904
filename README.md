@@ -12,7 +12,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 💬 Ask me about Neutral Networks <br>
 📫 How to reach me: baker.john20@yahoo.com <br>
 ⛵️ Fun fact: I Love to SAIL <br>
-👨‍💻I am currently working on a team as Machine Learning Engineer<br/> that is building NLP features for Underdog Devs, a non-profit organization.<br>
+👨‍💻I am currently working on a team as Machine Learning Engineer<br/>&nbspthat is building NLP features for Underdog Devs, a non-profit organization.<br>
 
 Please Visit My [Linked-In](https://www.linkedin.com/in/john-a-baker-jr/) Page <br>
 Please Visit My [Interactive Porfolio Website](https://www.johnabakerjr.link/) Page <br>
