@@ -15,6 +15,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 👯 I’m looking to collaborate on a Neural Network <br>
 
 💬 Ask me about Neutral Networks <br>
+
 📫 How to reach me: baker.john20@yahoo.com <br>
 ⛵️ Fun fact: I Love to SAIL <br>
 👨‍💻I am currently working on a team as Machine Learning Engineer<br/>  that is building NLP features for Underdog Devs, a non-profit organization.<br>
