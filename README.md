@@ -7,6 +7,7 @@ Data Scientist | Data Engineering | Machine Learning Engineer
 🌱 I’m currently getting my AWS Certified Machine Learning - Specialty <br>
 
 🌱 I’m currently getting the PCAP-31-02 Python Certification <br>
+
 🔭 I’m currently working on a AWS ReKognition Project<br>
 🤓I have passed the Python3 GCA (General Coding Assessment)<br>
 👯 I’m looking to collaborate on a Neural Network <br>
