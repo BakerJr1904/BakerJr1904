@@ -48,7 +48,6 @@ What I have been doing:<br>
 
 :white_check_mark: SQL, noSQL, and Databases<br>
 
-
 :white_check_mark: Productization<br>
 
 :white_check_mark: Cloud Implementation<br>
