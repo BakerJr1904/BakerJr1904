@@ -51,7 +51,6 @@ What I have been doing:<br>
 
 :white_check_mark: Productization<br>
 
-
 :white_check_mark: Cloud Implementation<br>
 
 :white_check_mark: Natural Language Processing<br>
