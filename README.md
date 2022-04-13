@@ -27,7 +27,6 @@ What I have been doing:<br>
 
 :white_check_mark: Test Experiments<br>
 
-
 :white_check_mark: Linear Algebra<br>
 
 :white_check_mark: Linear Models<br>
