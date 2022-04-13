@@ -30,6 +30,7 @@ What I have been doing:<br>
 
 :white_check_mark: Linear Algebra<br>
 
+
 :white_check_mark: Linear Models<br>
 
 :white_check_mark: Model Comparison<br>
