@@ -42,7 +42,6 @@ What I have been doing:<br>
 
 :white_check_mark: Data Visualization<br>
 
-
 :white_check_mark: Software Engineering<br>
 
 :white_check_mark: SQL, noSQL, and Databases<br>
