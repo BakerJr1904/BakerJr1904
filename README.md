@@ -57,7 +57,6 @@ What I have been doing:<br>
 
 :white_check_mark: Natural Language Processing<br>
 
-
 :white_check_mark: NLTK<br>
 
 :white_check_mark: Neural Network Foundations<br>
