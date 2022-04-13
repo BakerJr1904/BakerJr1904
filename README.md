@@ -69,6 +69,7 @@ What I have been doing:<br>
 
 :white_check_mark: Architectures<br>
 
+
 :white_check_mark: Intro to Python and OOP<br>
 
 :white_check_mark: Algorithms<br>
