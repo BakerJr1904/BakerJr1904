@@ -21,6 +21,7 @@ The  online data Science courses I have been taking are focused on technical and
 
 What I have been doing:<br>
 
+
 :white_check_mark: Statistical Analysis<br>
 
 :white_check_mark: Test Experiments<br>
