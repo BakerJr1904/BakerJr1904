@@ -25,6 +25,8 @@ What I have been doing:<br>
 
 :white_check_mark: noSQL - MongoDB Administration<br>
 
+:white_check_mark: Python and OOP<br>
+
 :white_check_mark: Statistical Analysis<br>
 
 :white_check_mark: Test Experiments<br>
@@ -54,8 +56,6 @@ What I have been doing:<br>
 :white_check_mark: Cutting-edge models<br>
 
 :white_check_mark: Architectures<br>
-
-:white_check_mark: Intro to Python and OOP<br>
 
 :white_check_mark: Algorithms<br>
 
